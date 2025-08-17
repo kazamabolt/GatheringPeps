@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "486685001293",
+    "project_id": "gatheringpeps",
+    "storage_bucket": "gatheringpeps.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486685001293:android:b2d6c0ab53de4f1fb57e04",
+        "android_client_info": {
+          "package_name": "com.gatheringpeps.gatheringpeps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486685001293-3vrlpaun687bppdqu9bp9en2ihai90vs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gatheringpeps.gatheringpeps",
+            "certificate_hash": "91d704deb06a130ededc3d35c6d77741619e0ce9"
+          }
+        },
+        {
+          "client_id": "486685001293-cs05g8gvdiv5o5o0rofop7dfh184ubh7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFs1qXO5Hne0XVW9j76rTejX6tV_FSBoE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "486685001293-cs05g8gvdiv5o5o0rofop7dfh184ubh7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

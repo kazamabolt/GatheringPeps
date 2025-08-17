@@ -1,0 +1,24 @@
+<svg width="192" height="192" viewBox="0 0 192 192" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background for maskable icon (needs to extend to edges) -->
+  <rect width="192" height="192" fill="#6B73FF"/>
+  
+  <!-- Background Circle -->
+  <circle cx="96" cy="96" r="80" fill="#F8F9FF"/>
+  
+  <!-- Location Pin (scaled down) -->
+  <path d="M96 48C80.5 48 68 60.5 68 76C68 91.5 96 144 96 144C96 144 124 91.5 124 76C124 60.5 111.5 48 96 48ZM96 86C89.4 86 84 80.6 84 74C84 67.4 89.4 62 96 62C102.6 62 108 67.4 108 74C108 80.6 102.6 86 96 86Z" fill="#6B73FF"/>
+  
+  <!-- People Silhouettes (scaled down) -->
+  <circle cx="70" cy="120" r="12" fill="#8B9AFF"/>
+  <path d="M70 134C60.1 134 52 142.1 52 152V154H88V152C88 142.1 79.9 134 70 134Z" fill="#8B9AFF"/>
+  
+  <circle cx="96" cy="120" r="12" fill="#6B73FF"/>
+  <path d="M96 134C86.1 134 78 142.1 78 152V154H114V152C114 142.1 105.9 134 96 134Z" fill="#6B73FF"/>
+  
+  <circle cx="122" cy="120" r="12" fill="#B4C5FF"/>
+  <path d="M122 134C112.1 134 104 142.1 104 152V154H140V152C140 142.1 131.9 134 122 134Z" fill="#B4C5FF"/>
+  
+  <!-- Connection Lines -->
+  <line x1="70" y1="120" x2="96" y2="120" stroke="#B4C5FF" stroke-width="3" stroke-linecap="round"/>
+  <line x1="96" y1="120" x2="122" y2="120" stroke="#B4C5FF" stroke-width="3" stroke-linecap="round"/>
+</svg>

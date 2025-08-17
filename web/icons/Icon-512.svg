@@ -1,0 +1,21 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Circle -->
+  <circle cx="256" cy="256" r="240" fill="#F8F9FF"/>
+  
+  <!-- Location Pin -->
+  <path d="M256 120C209.6 120 172 157.6 172 204C172 250.4 256 392 256 392C256 392 340 250.4 340 204C340 157.6 302.4 120 256 120ZM256 236C238.3 236 224 221.7 224 204C224 186.3 238.3 172 256 172C273.7 172 288 186.3 288 204C288 221.7 273.7 236 256 236Z" fill="#6B73FF"/>
+  
+  <!-- People Silhouettes -->
+  <circle cx="180" cy="320" r="32" fill="#8B9AFF"/>
+  <path d="M180 360C153.5 360 132 381.5 132 408V416H228V408C228 381.5 206.5 360 180 360Z" fill="#8B9AFF"/>
+  
+  <circle cx="256" cy="320" r="32" fill="#6B73FF"/>
+  <path d="M256 360C229.5 360 208 381.5 208 408V416H304V408C304 381.5 282.5 360 256 360Z" fill="#6B73FF"/>
+  
+  <circle cx="332" cy="320" r="32" fill="#B4C5FF"/>
+  <path d="M332 360C305.5 360 284 381.5 284 408V416H380V408C380 381.5 358.5 360 332 360Z" fill="#B4C5FF"/>
+  
+  <!-- Connection Lines -->
+  <line x1="180" y1="320" x2="256" y2="320" stroke="#B4C5FF" stroke-width="6" stroke-linecap="round"/>
+  <line x1="256" y1="320" x2="332" y2="320" stroke="#B4C5FF" stroke-width="6" stroke-linecap="round"/>
+</svg>
