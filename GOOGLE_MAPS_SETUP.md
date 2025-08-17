@@ -28,7 +28,6 @@ This guide will help you set up Google Maps for your Flutter app.
 1. Go to **APIs & Services** > **Credentials**
 2. Click **Create Credentials** > **API Key**
 3. Copy the generated API key
-   AIzaSyDByYXBo307W6BbyKZm3iogFbsZ56--oKk
 4. Click **Restrict Key** and add restrictions:
    - **Application restrictions**: Android apps
    - **API restrictions**: Select the APIs you enabled above
